@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Cleanup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 16:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.1"
+
+#: src/OptionsPageHandler.php:19
+msgid "Remove"
+msgstr ""
+
+#: src/OptionsPageHandler.php:58
+msgid "General"
+msgstr ""
+
+#: src/OptionsPageHandler.php:65 src/OptionsPageHandler.php:72
+msgid "Backend/admin menu"
+msgstr ""
+
+#: src/OptionsPageHandler.php:86
+msgid "Remove Emoji script/style"
+msgstr ""
+
+#: src/OptionsPageHandler.php:91
+msgid ""
+"By default, WordPress outputs some scripts and styles for Emoji support on "
+"your website."
+msgstr ""
+
+#: src/OptionsPageHandler.php:95
+msgid "Remove blog clients"
+msgstr ""
+
+#: src/OptionsPageHandler.php:100
+msgid "Removes the meta tags for xmlrpc.php and wlwmanifest.xml"
+msgstr ""
+
+#: src/OptionsPageHandler.php:104
+msgid "Remove generator tag"
+msgstr ""
+
+#: src/OptionsPageHandler.php:109
+msgid "Removes the generator meta tag"
+msgstr ""
+
+#: src/OptionsPageHandler.php:113
+msgid "Remove wp-json tag"
+msgstr ""
+
+#: src/OptionsPageHandler.php:118
+msgid "Removes the wp-json &lt;link&gt; tag"
+msgstr ""
+
+#: src/OptionsPageHandler.php:122
+msgid "Remove ID from menu items"
+msgstr ""
+
+#: src/OptionsPageHandler.php:127
+msgid "Removes the id=\"menu-item-x\" attribute from &lt;li&gt; menu items"
+msgstr ""
+
+#: src/OptionsPageHandler.php:131
+msgid "Remove classes from menu items"
+msgstr ""
+
+#: src/OptionsPageHandler.php:136
+msgid ""
+"Removes all classes from &lt;a&gt; menu items except custom classes or the ."
+"current-menu-* classes"
+msgstr ""
+
+#: src/OptionsPageHandler.php:140
+msgid "Remove «Comments» from menu"
+msgstr ""
+
+#: src/OptionsPageHandler.php:145
+msgid ""
+"When you have comments disabled on your website you probably don't need the "
+"«Comments» link in the menu."
+msgstr ""
+
+#: src/OptionsPageHandler.php:149
+msgid "Remove «Posts» from menu"
+msgstr ""
+
+#: src/OptionsPageHandler.php:154
+msgid ""
+"When you don't run a blog, eg. on small corporate websites, you probably "
+"don't need the general «Posts» link. Custom post types won't be affected by "
+"this option."
+msgstr ""
+
+#. Name of the plugin
+msgid "Simple Cleanup"
+msgstr ""
+
+#. Description of the plugin
+msgid "Provides options to clean up your WordPress installation."
+msgstr ""
+
+#. Author of the plugin
+msgid "multinet gmbh"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://multinet.ch"
+msgstr ""
